@@ -9,7 +9,7 @@ function Toast({type,message}) {
         }
         
     }, [type, message])
-
+    
     return ( 
         <>
             <ToastContainer

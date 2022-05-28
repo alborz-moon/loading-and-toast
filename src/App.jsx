@@ -10,6 +10,7 @@ function App() {
             <Loading />
             <Toast type={toast.type} message={toast.message} />
           </>
+          //{ function toast }
   );
 }
 
